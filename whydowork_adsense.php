@@ -156,7 +156,7 @@ Author URI: http://whydowork.com/
       // GENERAL OPTIONS
       $output .= '<div class="wrap">'."\n";
       $output .= '	<h2>General options</h2>'."\n";
-      $output .= '	<p>If the post doesn\'t have at least 2 paragraph, the ads from the middle position will not show.</p>'."\n";
+      $output .= '	<p><strong>Notes:</strong>If the post doesn\'t have at least 2 paragraph, the ads from the middle position will not show. If you use Firefox, we also recommend installing our <a href=https://addons.mozilla.org/en-US/firefox/addon/12735 target=_blank>Firefox AdSense Monitor</a> to track your stats.</p>'."\n";
       $output .= '	<p>Show adsense to administrator? &nbsp;&nbsp;<input name="whydowork_adsense_admin" type="checkbox"';
       if (get_option('whydowork_adsense_admin') == 'on') $output .= ' checked="checked" ';
       $output .= '/>';

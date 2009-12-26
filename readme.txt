@@ -3,7 +3,7 @@ Contributors: whydowork
 Donate link: http://www.whydowork.com/contact.php
 Tags: adsense,embed,ypn,cj,clickbank,advertise,google
 Requires at least: 2.0.2
-Tested up to: 2.8
+Tested up to: 2.9
 Stable tag: 4.3
 
 WhyDoWork Adsense allows you to insert Adsense ads on your blog without modifying the template with a variety of useful options.
@@ -14,6 +14,8 @@ WhyDoWork Adsense is a WordPress plugin that allows you to insert Adsense ads on
 For example, you can insert a 468x60 ad at the bottom of a new article, and once that article turns 7 days old it will have a more aggressive 336x280 ad blended with the text from the beginning of that article.
 This way your regular readers will not be bothered by your ads, while visitors coming to older posts from search engines or other sources, will see a version that is monetized better.
 Another feature is the ability to exclude ads wherever you like based on post id, or by using our no-adsense tag.
+The plugin is great when paired with our Firefox AdSense Monitor: 
+https://addons.mozilla.org/en-US/firefox/addon/12735
 
 == Installation ==
 
