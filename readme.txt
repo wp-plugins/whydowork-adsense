@@ -3,7 +3,7 @@ Contributors: whydowork
 Donate link: http://www.whydowork.com/contact.php
 Tags: adsense,embed,ypn,cj,clickbank,advertise,google
 Requires at least: 2.0.2
-Tested up to: 2.9
+Tested up to: 3.0.1
 Stable tag: 4.3
 
 WhyDoWork Adsense allows you to insert Adsense ads on your blog without modifying the template with a variety of useful options.
